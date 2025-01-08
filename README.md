@@ -1,6 +1,6 @@
 ## Hey! 👋
 
-**HHERNANDEZF1800/HHERNANDEZF1800** es un ✨ _especial_ ✨ repositorio porque su `README.md` (este archivo) aparece en tu perfil de GitHub.
+**HHERNANDEZF1800/HHERNANDEZF1800** <!--es un ✨ _especial_ ✨ repositorio porque su `README.md` (este archivo) aparece en tu perfil de GitHub. -->
 
 ### Sobre mí
 
@@ -21,7 +21,7 @@ Actualmente estoy estudiando y trabajando en varias tecnologías y áreas de int
 
 - 💬 Pregúntame sobre Python, Machine Learning y JavaScript.
 - 📫 Cómo contactarme: hhernanedzf1800@alumno.ipn.mx
-<--
+<!--
 ### Datos curiosos
 
 - 😄 Pronombres: [Tus pronombres]
