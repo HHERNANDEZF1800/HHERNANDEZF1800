@@ -20,7 +20,7 @@ Actualmente estoy estudiando y trabajando en varias tecnologías y áreas de int
 ### Contacto
 
 - 💬 Pregúntame sobre Python, Machine Learning y JavaScript.
-- 📫 Cómo contactarme: hhernanedzf1800@alumno.ipn.mx
+- 📫 Cómo contactarme: hhernandezf1800@alumno.ipn.mx
 <!--
 ### Datos curiosos
 
